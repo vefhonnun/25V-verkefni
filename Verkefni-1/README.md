@@ -125,6 +125,7 @@ _Gangi þér vel_
 
 * [Pico _CSS mini framework_](https://picocss.com/docs)
 * [Github Pico css](https://github.com/picocss/pico)
+* [Pico Sandbox](https://codesandbox.io/embed/4mrnhq?view=Editor+%2B+Preview)
 
 #### CSS breytur (_CSS Variables_)
 
